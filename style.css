@@ -1,0 +1,25 @@
+.rubik {
+  font-family: "Rubik", sans-serif;
+}
+
+.font-smoothing {
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.bg-accent {
+  background-color: #0055ff;
+}
+
+.button {
+  display: inline-block;
+  padding: 1rem 2rem;
+  font-size: 1rem;
+  line-height: 1.25;
+  text-align: center;
+  text-decoration: none;
+}
+
+.lh-none {
+  line-height: 0;
+}
