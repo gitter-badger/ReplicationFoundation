@@ -1,6 +1,7 @@
 [Replication Foundation](https://replication.foundation)
 ===
 
+[Discuss here.](https://github.com/ReplicationFoundation/ReplicationFoundation/issues/1)
 
 License
 ---
