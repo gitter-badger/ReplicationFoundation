@@ -1,4 +1,4 @@
-[Replication Foundation](https://replication.foundation)
+[Replication Foundation](http://replication.foundation)
 ===
 
 [Discuss here.](https://github.com/ReplicationFoundation/ReplicationFoundation/issues/1)
