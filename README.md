@@ -1,6 +1,8 @@
 [Replication Foundation](http://replication.foundation)
 ===
 
+[![Join the chat at https://gitter.im/ReplicationFoundation/ReplicationFoundation](https://badges.gitter.im/ReplicationFoundation/ReplicationFoundation.svg)](https://gitter.im/ReplicationFoundation/ReplicationFoundation?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
 [Discuss here.](https://github.com/ReplicationFoundation/ReplicationFoundation/issues/1)
 
 License
